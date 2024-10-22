@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/2fa0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2fa0n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/an-pham-tran-truong-12a78726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an-pham-tran-truong-12a78726a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the mediatory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the mediatory" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@themediatory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the mediatory" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@2fa0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2fa0n" height="30" width="40" /></a>
 </p>
 

@@ -1,3 +1,4 @@
+[![MasterHead](https://images6.fanpop.com/image/photos/34400000/-Naruto-Gifs-naruto-34401313-500-260.gif)]
 <h1 align="center">Hi 👋, I'm An</h1>
 <h3 align="center">A security researcher, photographer and enthusiastic keyboard player</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4d/9e/24/4d9e247c59450f3138de381fe4c0d778.gif">
@@ -7,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dudenation" alt="dudenation" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/2fa0n" target="blank"><img src="https://img.shields.io/twitter/follow/2fa0n?logo=twitter&style=for-the-badge" alt="2fa0n" /></a> </p>
+
+- 🌱 I’m currently learning **Web Penetration Testing**
 
 - 📫 How to reach me **anp2112003@gmail.com**
 
